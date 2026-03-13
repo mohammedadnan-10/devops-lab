@@ -1,0 +1,6 @@
+# Don't copy these into the image
+venv/
+__pycache__/
+*.pyc
+.env
+*.md
